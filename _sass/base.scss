@@ -21,6 +21,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
 $main-color: #EA472B;
 $background-color: #FDFDFD;
 $text-color: #222222;
+$icon-color: #40403E
 
 /*- Base settings -*/
 
@@ -43,5 +44,28 @@ a {
 	&:hover,
 	&:focus {
 		color: darken($main-color, 5%);
+	}
+}
+
+
+/*- Social Icons -*/
+.fa fa-github fa-2x {
+	color: $icon-color;
+	&:hover{
+		color: darken($icon-color, 5%);
+	}
+}
+
+.fa fa-youtube-play fa-2x {
+	color: $icon-color;
+	&:hover{
+		color: darken($icon-color, 5%);
+	}
+}
+
+.fa fa-linkedin-square fa-2x {
+	color: $icon-color;
+	&:hover{
+		color: darken($icon-color, 5%);
 	}
 }
