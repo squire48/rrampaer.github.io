@@ -49,21 +49,21 @@ a {
 
 
 /*- Social Icons -*/
-.fa fa-github fa-2x {
+.fa-github  {
 	color: $icon-color;
 	&:hover{
 		color: darken($icon-color, 5%);
 	}
 }
 
-.fa fa-youtube-play fa-2x {
+.fa-youtube-play  {
 	color: $icon-color;
 	&:hover{
 		color: darken($icon-color, 5%);
 	}
 }
 
-.fa fa-linkedin-square fa-2x {
+.fa-linkedin-square  {
 	color: $icon-color;
 	&:hover{
 		color: darken($icon-color, 5%);
