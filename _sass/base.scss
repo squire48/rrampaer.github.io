@@ -51,6 +51,12 @@ a {
 	}
 }
 
+a .emerald {
+	color: #ffffff;
+	&:hover {
+		color: $text-color;
+}
+
 
 /*- Social Icons -*/
 .fa-github  {
