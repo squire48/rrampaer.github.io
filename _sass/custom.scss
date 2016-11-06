@@ -44,6 +44,7 @@ h1.title {
 
 /*- Code Display -*/
 
-td.code {
-	display: block;
+figure.highlight {
+    overflow: scroll;
+    overflow-y: hidden;
 }
