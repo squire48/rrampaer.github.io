@@ -58,24 +58,28 @@ a.emerald {
 	}
 }
 
+h1.title {
+	color: $icon-color;
+}
+
 
 /*- Social Icons -*/
 .fa-github  {
-	color: $text-color;
+	color: $icon-color;
 	&:hover{
 		color: $main-color;
 	}
 }
 
 .fa-youtube-play  {
-	color: $text-color;
+	color: $icon-color;
 	&:hover{
 		color: $main-color;
 	}
 }
 
 .fa-linkedin-square  {
-	color: $text-color;
+	color: $icon-color;
 	&:hover{
 		color: $main-color;
 	}
