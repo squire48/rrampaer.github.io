@@ -1,3 +1,43 @@
 /*- Custom style -*/
 
+$icon-color: #40403E;
+
 // -- Put custom style under this point -- //
+
+.social_icons {
+	padding: 5px 5px;
+}
+
+a.emerald {
+	color: #ffffff;
+	&:hover {
+		color: $text-color;
+	}
+}
+
+h1.title {
+	color: $icon-color;
+}
+
+
+/*- Social Icons -*/
+.fa-github  {
+	color: $icon-color;
+	&:hover{
+		color: $main-color;
+	}
+}
+
+.fa-youtube-play  {
+	color: $icon-color;
+	&:hover{
+		color: $main-color;
+	}
+}
+
+.fa-linkedin-square  {
+	color: $icon-color;
+	&:hover{
+		color: $main-color;
+	}
+}
