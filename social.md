@@ -2,12 +2,12 @@
 layout: page
 title: Social
 ---
-### iRead
+# Social
 {% include goodreads.html %}
 
-### iRun
+
 {% include strava.html %}
 
-### iFilm
+
 {% include youtube.html %}
 
