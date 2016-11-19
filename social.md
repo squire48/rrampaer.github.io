@@ -2,7 +2,7 @@
 layout: page
 title: Social
 ---
-# Social
+## Social
 {% include goodreads.html %}  
   
 {% include strava.html %}
