@@ -9,5 +9,5 @@ title: Social
 {% include strava.html %}
 
 
-{% include youtube.html %}
+
 
