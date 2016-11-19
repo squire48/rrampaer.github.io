@@ -2,7 +2,9 @@
 layout: page
 title: Social
 ---
-##Social
+## Bookshelf
 {% include goodreads.html %}
+
+## Strava Feed
 {% include strava.html %}
 
