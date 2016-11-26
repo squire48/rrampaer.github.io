@@ -68,6 +68,7 @@ Indeed! Users can tweet (following a given format) their requests
 
 ## What else can a bot do?
 Anything you find useful and/or funny. You could think of a bot that:
+
 - tweets you when your dream camera is on sale, so that you don't have to press F5 every day.
 - buys and sales stocks according to your predefined investment strategy
 - books tickets as soon as they are available
