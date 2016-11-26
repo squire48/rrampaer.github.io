@@ -12,6 +12,8 @@ Because the word tends to be way overused, agreeing on a definition is always a 
 
 Tasks are usually thought of as being time-based and performed by a [cron]("https://en.wikipedia.org/wiki/Cron"), a job scheduler in Unix-like computer operating systems. However, if you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge (that self-adjusts for a given temperature) or even my henhouse's door (that opens as the sun rises) are "bots".
 
+> if you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge is a bot
+
 ## How to harness social media's data to create (almost-always-useless) bots?
 
 ### Perform a periodic check of Strava's segments' leaderboards
@@ -52,7 +54,7 @@ def get_changed_leaders(rows):
 
 {% endhighlight %}
 
-### When and how is this taks run?
+### When and how is this task run?
 In this case, the job is run using [Python Anywhere]("https://www.pythonanywhere.com"), it is service that allows one to host, run, and code Python in the cloud. They have a free "beginner" plan.
 ![schedule](img/schedule.png "Schedule")
 
@@ -66,7 +68,6 @@ Indeed! Users can tweet (following a given format) their requests
 
 ## What else can a bot do?
 Anything you find useful and/or funny. You could think of a bot that:
-
 - tweets you when your dream camera is on sale, so that you don't have to press F5 every day.
 - buys and sales stocks according to your predefined investment strategy
 - books tickets as soon as they are available
