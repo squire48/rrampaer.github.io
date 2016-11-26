@@ -1,6 +1,9 @@
 ---
 title: A Twitter bot giving you Strava's segments' updates
 ---
+![bsb](img/bsb.png "bsb")
+Brussels Strava Bot is a twitter bot that performs daily checks for changes in [Strava]("https://www.strava.com/")'s (a popular running app) segments' leaderboards changes.
+
 ## What is a bot anyway?
 Because the word tends to be way overused, agreeing on a definition is always a first step, therefore by bot I will always imply the following:
 
