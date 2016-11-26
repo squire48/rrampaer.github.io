@@ -1,7 +1,6 @@
 ---
 title: A Twitter bot giving you Strava's segments' updates
 ---
-![bsb](img/bsb.PNG "bsb")
 {% include tss.html %}
 Brussels Strava Bot is a twitter bot that performs daily checks for changes in [Strava]("https://www.strava.com/")'s (a popular running app) segments' leaderboards changes.
 
@@ -77,12 +76,12 @@ def tweet_changes(changes, api):
             api.update_status(status)
 {% endhighlight %}
             
-![Marc](img/marc.png "marc")
+{% include marc.html %}
 
 ### Can our bot automatically add segments to scan?
 Indeed! Users can tweet (following a given format) their requests
 
-![request](img/request.png "request")
+{% include request.html %}
 
 ## What else can a bot do?
 Anything you find useful and/or funny. You could think of a bot that:
