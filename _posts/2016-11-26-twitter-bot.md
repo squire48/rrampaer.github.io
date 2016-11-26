@@ -12,7 +12,7 @@ Because the word tends to be way overused, agreeing on a definition is always a 
 
 Tasks are usually thought of as being time-based and performed by a [cron]("https://en.wikipedia.org/wiki/Cron"), a job scheduler in Unix-like computer operating systems. However, if you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge (that self-adjusts for a given temperature) or even my henhouse's door (that opens as the sun rises) are "bots".
 
-> if you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge is a bot
+> If you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge is a "bot"
 
 ## How to harness social media's data to create (almost-always-useless) bots?
 
