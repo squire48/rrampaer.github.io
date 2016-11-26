@@ -15,7 +15,7 @@ Tasks are usually thought of as being time-based and performed by a [cron]("http
 
 ## How to harness social media's data to create (almost-always-useless) bots?
 
-### Perform a periodic check of Strava's segments' leaderboards
+### Example here: perform a periodic check of Strava's segments' leaderboards
 
 {% highlight python linenos %}
 
