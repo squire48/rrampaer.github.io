@@ -1,7 +1,7 @@
 ---
 title: A Twitter bot giving you Strava's segments' updates
 ---
-![tss](img/tss.png "tss")
+![bsb](img/bsb.png "Brussels Segments Scanner")
 Brussels Strava Bot is a twitter bot that performs daily checks for changes in [Strava]("https://www.strava.com/")'s (a popular running app) segments' leaderboards changes.
 
 ## What is a bot anyway?
