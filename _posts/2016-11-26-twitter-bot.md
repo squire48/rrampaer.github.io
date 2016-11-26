@@ -56,14 +56,17 @@ def get_changed_leaders(rows):
 
 ### When and how is this task run?
 In this case, the job is run using [Python Anywhere]("https://www.pythonanywhere.com"), it is service that allows one to host, run, and code Python in the cloud. They have a free "beginner" plan.
+
 ![schedule](img/schedule.png "Schedule")
 
 ### What is the task performed when a segment record has been beaten?
 Our bot will tweet the update, letting the world know that the king is no more with some spicy hashtags (#recovery is a solid choice)
+
 ![Marc](img/marc.png "marc")
 
 ### Can our bot automatically add segments to scan?
 Indeed! Users can tweet (following a given format) their requests
+
 ![request](img/request.png "request")
 
 ## What else can a bot do?
