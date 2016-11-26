@@ -62,6 +62,21 @@ In this case, the job is run using [Python Anywhere]("https://www.pythonanywhere
 ### What is the task performed when a segment record has been beaten?
 Our bot will tweet the update, letting the world know that the king is no more with some spicy hashtags (#recovery is a solid choice)
 
+{% highlight python linenos %}
+def tweet_changes(changes, api):
+    if not changes:
+        api.update_status(random.choice(nochange))
+    else:
+        api.update_status("We have "+str(len(changes))+" new leader(s) today! #strive #gameon")
+        for change in changes:
+            firstName = change[1].split(" ",1)[0].decode('utf8', errors='ignore')
+            segmentShortUrl = shorten_url("https://www.strava.com/segments/"+str(change[0]))
+
+            #Generate a status with the different elements and tweet it
+            status = firstName + " " + random.choice(middle)  + " " + segmentShortUrl + " " + random.choice(hashtags)
+            api.update_status(status)
+{% endhighlight %}
+            
 ![Marc](img/marc.png "marc")
 
 ### Can our bot automatically add segments to scan?
