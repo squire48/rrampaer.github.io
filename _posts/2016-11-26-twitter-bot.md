@@ -2,14 +2,14 @@
 title: A Twitter bot giving you Strava's segments' updates
 ---
 ![bsb](img/bsb.PNG "Brussels Segments Scanner")
-Brussels Strava Bot is a twitter bot that performs daily checks for changes in [Strava](https://www.strava.com)'s (a popular running app) segments' leaderboards changes.
+Brussels Strava Bot is a twitter bot that performs daily checks for changes in [Strava](https://www.strava.com){:target="_blank"}'s (a popular running app) segments' leaderboards changes.
 
 ## What is a bot anyway?
 Because the word tends to be way overused, agreeing on a definition is always a first step, therefore by bot I will always imply the following:
 
 > A bot is an application that performs an automated task
 
-Tasks are usually thought of as being time-based and performed by a [cron](https://en.wikipedia.org/wiki/Cron), a job scheduler in Unix-like computer operating systems. However, if you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge (that self-adjusts for a given temperature) or even my henhouse's door (that opens as the sun rises) are "bots".
+Tasks are usually thought of as being time-based and performed by a [cron](https://en.wikipedia.org/wiki/Cron){:target="_blank"}, a job scheduler in Unix-like computer operating systems. However, if you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge (that self-adjusts for a given temperature) or even my henhouse's door (that opens as the sun rises) are "bots".
 
 > If you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge is a "bot"
 
@@ -54,7 +54,7 @@ def get_changed_leaders(rows):
 {% endhighlight %}
 
 ### When and how is this task run?
-In this case, the job is run using [Python Anywhere](https://www.pythonanywhere.com), it is service that allows one to host, run, and code Python in the cloud. They have a free "beginner" plan.
+In this case, the job is run using [Python Anywhere](https://www.pythonanywhere.com){:target="_blank"}, it is service that allows one to host, run, and code Python in the cloud. They have a free "beginner" plan.
 
 ![schedule](img/schedule.png "Schedule")
 
