@@ -67,6 +67,7 @@ The idea comes from **Joel Runyon**, who created the world’s first impossible 
     * ~~Freedive to 30m~~
       * Freedive to 40m
 * Go Spearfishing 
+
 * ~~Summit a 3000m+ mountain~~ Skiing in France...
   * ~~Summit a 4000m+ mountain~~ Mont Blanc, France 2015
     * ~~Summit a 4000m+ mountain~~ [Sirsirla, Ladakh, India, 2014](https://www.youtube.com/watch?v=1oDs1301Bnc)
@@ -91,7 +92,7 @@ The idea comes from **Joel Runyon**, who created the world’s first impossible 
   * Learn Panda's (Python lib)
 * ~~Learn API's 101~~
   * ~~Build & Host a running "bot" using knowledge of Python and of API's~~ [A twitter bot giving you Strava's segments' updates](https://rrampaer.github.io/twitter-bot)
-   * Build a webapp some people would be interested in using
+    * Build a webapp some people would be interested in using
 * ~~Learn video shooting 101~~
 * ~~Learn video editing 101~~
 * ~~Learn sound editing 101~~
