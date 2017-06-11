@@ -16,7 +16,8 @@ The idea comes from **Joel Runyon**, who created the world’s first impossible 
 * ~~Run a sub 40 min 10k~~  
   * ~~Run a sub 38 min 10k~~
     * Run a sub 36 min 10k
-* Run a sub 1h20 20k
+* ~~Run a sub 1h20 20k~~ [20km de Bruxelles 2017](http://prod.chronorace.be/Classements/Classement20km2017.aspx?eventId=1187794680566157&lng=FR)
+  * Run a sub 1h15 20k
 * Run a sub 3h Marathon
 * Participate in a Cross Cup
 * ~~Run a trail running race~~
