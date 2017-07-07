@@ -7,7 +7,7 @@ Brussels Strava Bot is a twitter bot that performs daily checks for changes in [
 ## What is a bot anyway?
 Because the word tends to be way overused, agreeing on a definition is always a first step, therefore by bot I will always imply the following:
 
-> A bot is an application that performs an automated task
+> A bot is an application that performs an automated task across disparate systems
 
 Tasks are usually thought of as being time-based and performed by a [cron](https://en.wikipedia.org/wiki/Cron){:target="_blank"}, a job scheduler in Unix-like computer operating systems. However, if you think of IT automation as the linking of disparate systems and software in such a way that they become self-acting or self-regulating, your fridge (that self-adjusts for a given temperature) or even my henhouse's door (that opens as the sun rises) are "bots".
 
