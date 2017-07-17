@@ -12,7 +12,8 @@ The idea comes from **Joel Runyon**, who created the world’s first impossible 
 ## Fitness
 * ~~Run a sub 2 min 800m~~ [BGP 2017](http://www.liveresults.be/2017/brussels-grand-prix/event031h03.html)
   * Run a sub 1 min 55 sec 800m
-* Run a sub 4 min 10 1500m
+* ~~Run a sub 4 min 10 1500m~~ [Ninove Flanders Cup 2017](http://www.liveresults.be/2017/memorial-rasschaert/event026h03.html)
+  * Run a sub 4 min 1500m
 * Run a sub 9 min 30 3000m
 * ~~Run a sub 40 min 10k~~  
   * ~~Run a sub 38 min 10k~~
